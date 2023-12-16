@@ -5,9 +5,13 @@ Welcome to the repository for our Microprocessors and Microcontrollers Laborator
 **Key Features:**
 
   **1. Project Proposal:** Explore the foundational ideas and objectives that set the stage for our UAV project.
+
   **2. Codebase:** Dive into the heart of our project with the detailed source code for the microprocessors and microcontrollers driving our UAV.
+
   **3. Implementation:** Discover the practical aspects of bringing our UAV project to life, including hardware configurations and real-world testing.
+
   **4. Ideation:** Follow the evolution of our project from conceptualization to execution, gaining insights into the decision-making process and design considerations.
+
   **5. Reports:** Access detailed reports outlining the methodology, challenges faced, and lessons learned throughout the development of our UAV project.
 
 
