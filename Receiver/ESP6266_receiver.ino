@@ -36,6 +36,7 @@ uint8_t broadcastAddress[] = {0xC8, 0x2B, 0x96, 0x1C, 0xFE, 0x67};
 typedef struct struct_commands {
   //pot value
   byte potvalue;
+
 //button status
 // Variable to store the state of the pushbutton
   bool btnFwPressed=0;
