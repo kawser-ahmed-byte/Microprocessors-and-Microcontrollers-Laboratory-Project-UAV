@@ -205,8 +205,8 @@ Serial.println(SerialCmd);
 }
 
 //parse sensor data funcitons
-int parseTemp(String cmd){
-  cmd.remove(0,cmd.indexOf("T")+1);
-  cmd.remove(cmd.indexOf("E"));//end of the string
-  return cmd.toInt();
-}
+  int parseTemp(String cmd){
+    cmd.remove(0,cmd.indexOf("T")+1);
+    cmd.remove(cmd.indexOf("E"));//end of the string
+    return cmd.toInt();
+  }
