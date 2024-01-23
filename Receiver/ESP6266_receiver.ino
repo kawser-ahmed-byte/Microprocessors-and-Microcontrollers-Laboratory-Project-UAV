@@ -16,8 +16,6 @@
 
 //define all the pins 
 
-
-
 //delay management//
   //current millis
   unsigned long currentMillis;
