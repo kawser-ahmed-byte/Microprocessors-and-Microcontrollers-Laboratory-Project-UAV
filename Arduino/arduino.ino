@@ -25,7 +25,7 @@
   int ESC6Speed;
 
   int ArmAngle;
-//Control Modes
+  //Control Modes
   byte hoverMode;
   //Relays
   #define relayPin1 10
