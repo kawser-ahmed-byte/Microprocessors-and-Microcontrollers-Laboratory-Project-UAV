@@ -1,5 +1,6 @@
 #include<DHT.h>
 #include <Servo.h>
+
 //Sensors
   //DHT Sensor
   #define DHTPIN 2     // Digital pin connected to the DHT sensor
