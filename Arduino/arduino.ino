@@ -31,7 +31,7 @@
   #define relayPin1 10
   #define relayPin2 11
 
-//Delay Management
+  //Delay Management
   //current millis
   unsigned long currentMillis;
   //send sensor data to nodemcu
