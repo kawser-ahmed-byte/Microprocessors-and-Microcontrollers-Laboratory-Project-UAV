@@ -27,7 +27,7 @@
   int ArmAngle;
 //Control Modes
   byte hoverMode;
-//Relays
+  //Relays
   #define relayPin1 10
   #define relayPin2 11
 
