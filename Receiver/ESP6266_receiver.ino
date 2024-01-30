@@ -5,7 +5,7 @@
 
     The flow of the code
     1 - Put WiFi in STA Mode
-    2 - Intialize ESPNOW
+    2 - Initialize ESPNOW
     3 - Set Role to Combo
     4 - Add peer device
     5 - Define Send Callback Function
