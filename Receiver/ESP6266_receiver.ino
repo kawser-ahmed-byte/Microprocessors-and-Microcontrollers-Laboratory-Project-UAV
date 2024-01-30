@@ -3,7 +3,7 @@
 
 /*
 
-    Flow of the code
+    The flow of the code
     1 - Put WiFi in STA Mode
     2 - Intialize ESPNOW
     3 - Set Role to Combo
