@@ -70,7 +70,7 @@ void loop() {
     if (receivedString.startsWith("P")) {
       // Print and store the received string
       Serial.println(receivedString);
-  //set speed of motors, actuators 
+      //set speed of motors, actuators 
       ArmAngle=parsePot(receivedString);
 
       if(parseSink(receivedString)){
