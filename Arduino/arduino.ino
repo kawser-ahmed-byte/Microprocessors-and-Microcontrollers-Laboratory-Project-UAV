@@ -116,7 +116,7 @@ void loop() {
       }
       else if(parseBw(receivedString)){
           //relay code
-        digitalWrite(relayPin1,LOW);
+          digitalWrite(relayPin1,LOW);
           //relay code end
         ESC5Speed=parseXyspeed(receivedString);
       ESC6Speed=ESC5Speed;
