@@ -112,7 +112,7 @@ void loop() {
         //relay code end
         //adjust speed
         ESC5Speed=parseXyspeed(receivedString);
-      ESC6Speed=ESC5Speed;
+        ESC6Speed=ESC5Speed;
       }
       else if(parseBw(receivedString)){
           //relay code
