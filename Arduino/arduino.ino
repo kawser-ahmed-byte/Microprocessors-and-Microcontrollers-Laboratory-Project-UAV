@@ -37,7 +37,7 @@
   //send sensor data to nodemcu
   unsigned long previousMillis_send = 0;
   const long interval_send = 1000;
-//Delay Management End
+  //Delay Management End
 
 
 void setup() {
