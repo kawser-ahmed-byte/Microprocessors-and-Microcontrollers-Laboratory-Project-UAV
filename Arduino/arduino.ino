@@ -52,7 +52,7 @@ void setup() {
   Arm.attach(9);
   dht.begin();
 
-//relay startup mode
+  //relay startup mode
   pinMode(relayPin1,OUTPUT);
   digitalWrite(relayPin1,HIGH);
 
