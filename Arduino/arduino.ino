@@ -96,7 +96,7 @@ void loop() {
         ESC1Speed=parseHoverspeed(receivedString);
         ESC2Speed=ESC1Speed;
         ESC3Speed=ESC1Speed;
-      ESC4Speed=ESC1Speed;
+        ESC4Speed=ESC1Speed;
       }
       else{
       ESC1Speed=0;
