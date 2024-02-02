@@ -132,7 +132,7 @@ void loop() {
     }
     else{
        ESC5Speed=0;
-      ESC6Speed=0;
+       ESC6Speed=0;
     }
   }
 
