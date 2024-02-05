@@ -40,7 +40,7 @@ typedef struct struct_commands {
   byte potvalue;
 
 //button status
-// Variable to store the state of the pushbutton
+  // Variable to store the state of the pushbutton
   bool btnFwPressed=0;
   bool btnBwPressed=0;
   bool btnLeftPressed=0;
