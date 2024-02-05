@@ -10,7 +10,6 @@
     4 - Add peer device
     5 - Define Send Callback Function
     6 - Define Receive Callback Function
-  
 */
 
 #include <ESP8266WiFi.h>
