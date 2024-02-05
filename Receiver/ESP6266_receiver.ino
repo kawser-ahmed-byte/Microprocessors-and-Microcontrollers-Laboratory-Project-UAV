@@ -27,7 +27,7 @@ unsigned long currentMillis;
     //send on serial delay
     unsigned long previousMillis_send_serial=0;
     const long interval_send_serial=100;
-//delay management end//
+    //delay management end//
 //Note: previousMillis and interval should be different for every delay event
 
 
