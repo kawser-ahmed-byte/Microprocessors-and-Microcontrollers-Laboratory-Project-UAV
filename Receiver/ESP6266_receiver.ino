@@ -2,7 +2,6 @@
 // - 
 
 /*
-
     The flow of the code
     1 - Put WiFi in STA Mode
     2 - Initialize ESPNOW
