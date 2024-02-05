@@ -24,7 +24,7 @@ unsigned long currentMillis;
     unsigned long previousMillis_send = 0; //last time sent on controller
     const long interval_send = 100;
 
-  //send on serial delay
+    //send on serial delay
     unsigned long previousMillis_send_serial=0;
     const long interval_send_serial=100;
 //delay management end//
