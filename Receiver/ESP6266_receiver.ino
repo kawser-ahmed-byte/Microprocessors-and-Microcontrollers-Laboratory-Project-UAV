@@ -28,7 +28,7 @@ unsigned long currentMillis;
     unsigned long previousMillis_send_serial=0;
     const long interval_send_serial=100;
     //delay management end//
-//Note: previousMillis and interval should be different for every delay event
+    //Note: previousMillis and interval should be different for every delay event
 
 
 // REPLACE WITH THE MAC Address of your receiver
