@@ -74,6 +74,7 @@ struct_commands incomingCommands;
 
 // Variable to store if sending data was successful
 String success;
+
 // Callback when data is sent
 void OnDataSent(uint8_t *mac_addr, uint8_t sendStatus) {
   // Serial.print("Last Packet Send Status: "); 
