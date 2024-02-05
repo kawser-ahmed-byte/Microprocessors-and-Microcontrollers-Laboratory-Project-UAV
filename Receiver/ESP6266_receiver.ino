@@ -94,7 +94,7 @@ void OnDataRecv(uint8_t * mac, uint8_t *incomingData, uint8_t len) {
   // Serial.print("Bytes received: ");
   // Serial.println(len);
 
-//send incoming data to serial on an interval
+  //send incoming data to serial on an interval
  if (currentMillis - previousMillis_send_serial >= interval_send_serial) {
   sendonSerial();
 
