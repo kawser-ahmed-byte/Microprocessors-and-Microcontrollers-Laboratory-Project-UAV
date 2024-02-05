@@ -71,6 +71,7 @@ struct_data outgoingData;
 
 // Create a struct_commands called incomingCommands to hold incoming data
 struct_commands incomingCommands;
+
 // Variable to store if sending data was successful
 String success;
 // Callback when data is sent
