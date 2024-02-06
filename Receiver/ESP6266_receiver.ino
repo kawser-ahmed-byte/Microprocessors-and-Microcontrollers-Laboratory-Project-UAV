@@ -64,7 +64,8 @@ struct_commands;
     typedef struct struct_data {
     byte incInt;
     byte temp;
-    } struct_data;
+    } 
+struct_data;
 
 // Create a struct_commands called outgoingData to hold outgoing data
 struct_data outgoingData;
