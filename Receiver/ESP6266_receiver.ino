@@ -57,7 +57,8 @@ typedef struct struct_commands {
   byte hoverSpeed;
   byte xySpeed;
 
-} struct_commands;
+} 
+struct_commands;
 
     // structure of the outgoing packet
     typedef struct struct_data {
