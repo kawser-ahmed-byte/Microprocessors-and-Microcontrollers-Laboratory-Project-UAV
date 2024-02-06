@@ -65,6 +65,7 @@ struct_commands;
     byte incInt;
     byte temp;
     } 
+
 struct_data;
 
 // Create a struct_commands called outgoingData to hold outgoing data
