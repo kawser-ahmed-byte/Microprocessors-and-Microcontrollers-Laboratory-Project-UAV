@@ -60,7 +60,7 @@ typedef struct struct_commands {
 } struct_commands;
 
     // structure of the outgoing packet
-typedef struct struct_data {
+    typedef struct struct_data {
 byte incInt;
 byte temp;
 } struct_data;
