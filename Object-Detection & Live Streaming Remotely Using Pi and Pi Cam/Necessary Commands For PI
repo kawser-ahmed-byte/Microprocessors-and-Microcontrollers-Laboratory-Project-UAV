@@ -1,6 +1,6 @@
 sudo apt update         //to update the pi on to the latest version
 sudo apt full-upgrade  //to update the pi on to the latest version
-sudo raspi-config //enable ssh, VIN, Camera port etc
+sudo raspi-config     //enable ssh, VIN, Camera port etc
 echo Y |sudo apt-get install libopenjp2-7-dev
 echo Y | sudo apt-get install libhdf5-dev
 echo Y |sudo apt-get install libqtgui4 libqtwebkit4 libqt4-test
