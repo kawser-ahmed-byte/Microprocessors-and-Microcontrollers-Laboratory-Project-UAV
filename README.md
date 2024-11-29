@@ -23,7 +23,7 @@ Welcome to the repository for **TritonZ**, a cutting-edge **Remotely Operated Un
 ## 📹 **Demo Video & Project Gallery**  
 
 🎥 **Watch TritonZ in Action!**  
-[👉 Click Here to View Demo](https://drive.google.com/drive/folders/1yjFC9lKnV3xkS42XfZ750D8-EzUNAV0f)  
+[👉 Click Here to View Demo](https://drive.google.com/file/d/1N7XAuvqX1yeicCKzR03-eNk7hlJK_zuV/view?usp=drive_link)  
 
 ### 📸 **Project Images**  
 - 3D Design of ROV  
@@ -31,9 +31,9 @@ Welcome to the repository for **TritonZ**, a cutting-edge **Remotely Operated Un
 - Underwater Testing Footage  
 
 <p align="center">
-  <img src="assets/3D design.PNG" alt="ROV 3D Design" width="300" height="300">
-  <img src="assets/arm.JPG" alt="Manipulator Arm" width="300" height="300">
-  <img src="assets/submerged.jpg" alt="ROV Submerged" width="300" height="300">
+  <img src="assets/3D design.PNG" alt="ROV 3D Design" width="300" height="350">
+  <img src="assets/arm.JPG" alt="Manipulator Arm" width="300" height="350">
+  <img src="assets/submerged.jpg" alt="ROV Submerged" width="300" height="350">
 </p>
 
 ---
