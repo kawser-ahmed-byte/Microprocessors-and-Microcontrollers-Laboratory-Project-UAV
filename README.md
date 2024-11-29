@@ -1,12 +1,12 @@
 # TritonZ: A Remotely Operated Underwater Rover  
 ## Designed for Exploration and Rescue Operations  
 
-Welcome to the repository for **TritonZ**, our **Remotely Operated Underwater Rover (ROV)** with a manipulator arm for versatile underwater exploration and rescue tasks. This project was developed as part of our **Microprocessors & Microcontrollers Laboratory Course** under the supervision of **Fahim Hafiz** and presented at **ICCIT 2024**.  
+Welcome to the repository for **TritonZ**, our **Remotely Operated Underwater Rover (ROV)** with a manipulator arm for versatile underwater exploration and rescue tasks. This project was developed as part of our **Microprocessors & Microcontrollers Laboratory Course** under the supervision of our mentor **Mr. Fahim Hafiz**.  
 
 ---
 
 <p align="center">
-  <img src="assets/rov_overview.jpg" alt="TritonZ ROV" width="600">
+  <img src="assets/test.jpg" alt="TritonZ ROV" width="600">
 </p>
 
 ---
@@ -22,16 +22,16 @@ Welcome to the repository for **TritonZ**, our **Remotely Operated Underwater Ro
 
 ## 📹 Demo Video & Project Gallery  
 🎥 **Watch TritonZ in Action!**  
-[![TritonZ Demo Video](https://img.youtube.com/vi/your_video_id_here/0.jpg)](https://youtu.be/your_video_id_here)  
+[![TritonZ Demo Video](https://drive.google.com/drive/folders/1yjFC9lKnV3xkS42XfZ750D8-EzUNAV0f)]
 
 ### 📸 Project Images  
-- ROV Design Overview  
+- 3D Design of ROV  
 - Manipulator Arm in Action  
 - Underwater Testing Footage  
 
 <p align="center">
-  <img src="assets/testing.jpg" alt="ROV Testing" width="300">
-  <img src="assets/arm.jpg" alt="Manipulator Arm" width="300">
+  <img src="assets/3D design.PNG" alt="ROV Testing" width="300">
+  <img src="assets/arm.JPG" alt="Manipulator Arm" width="300">
   <img src="assets/submerged.jpg" alt="ROV Submerged" width="300">
 </p>
 
@@ -48,7 +48,7 @@ The TritonZ integrates robust components for efficient underwater operations:
   - 4x BLDC Motors for thrust  
   - 2x BLDC Motors for directional control  
 - **Other Components**:  
-  - ESP-32 and ESP-8266 for wireless communication  
+  - ESP-8266 for wireless communication  
   - PVC Frame and Epoxy for a waterproof design  
 
 ### **Software Architecture**  
@@ -58,7 +58,7 @@ Our multi-tier software includes:
 - **Manipulator Arm**: Integrated logic for object handling and rescue operations.  
 
 <p align="center">
-  <img src="assets/architecture_diagram.png" alt="System Architecture" width="600">
+  <img src="assets/Block-Diagram.png" alt="System Architecture" width="600">
 </p>
 
 ---
@@ -98,9 +98,8 @@ cd Microprocessors-and-Microcontrollers-Laboratory-Project-UAV
 
 This project was collaboratively developed by students of **United International University (UIU), Bangladesh**:  
 - **Kawser Ahmed**  
-- **[Team Member 1 Name]**  
-- **[Team Member 2 Name]**  
-- **[Team Member 3 Name]**
+- **Mir Shahriar Fardin**  
+- **Arif Faysal Nayeem**  
 
 ---
 
