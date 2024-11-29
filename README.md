@@ -33,6 +33,7 @@ Welcome to the repository for **TritonZ**, a cutting-edge **Remotely Operated Un
 <p align="center">
   <img src="assets/3D design.PNG" alt="ROV 3D Design" width="300" height="350">
   <img src="assets/arm.JPG" alt="Manipulator Arm" width="300" height="350">
+  <img src="assets/test.jpg" alt="ROV Submerged" width="300" height="350">
   <img src="assets/submerged.jpg" alt="ROV Submerged" width="300" height="350">
 </p>
 
